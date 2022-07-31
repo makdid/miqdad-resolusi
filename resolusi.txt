@@ -2,3 +2,5 @@ hal yang harus di capai :
 - menyelesaikan belajar css grid
 - menyelesaikan belajar java script
 - menyelesaikan belajar git dan github
+- mempelajari react
+- membuat web dengan react js
